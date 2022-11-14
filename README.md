@@ -18,8 +18,6 @@ Requirement
 ### Linux shell project
 - 2022년 10월 프로젝트
 - bash에서 input text 파일을 처리하기 위한 script program
-Make your script program for handling a 
-input text file in BASH
 
 Requirement
 - Enable/disable empty line removal
